@@ -18,6 +18,7 @@ In this way, the proposed UGR model can not only share common knowledge across t
 ## Acknowledgement
 
 - [fairseq](https://github.com/facebookresearch/fairseq)
+- [SEAL](https://github.com/facebookresearch/SEAL)
 - [GENRE](https://github.com/facebookresearch/GENRE)
 - [KILT](https://github.com/facebookresearch/KILT)
 
